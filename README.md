@@ -25,4 +25,4 @@ Q1.subStateAdd('0', '0', 3, Q0, alphabet.alphabet);
 Q1.subStateAdd('1', '1', 3, Q0, alphabet.alphabet);
 ...
 ```
-Signature: `input`, `output`, `direction`, (`1 - right`, `2 - left`, `3 - stay`), `next state`, `alphabet`.
+<b>Signature:</b> `input`, `output`, `direction`, (`1 - right`, `2 - left`, `3 - stay`), `next state`, `alphabet`.
